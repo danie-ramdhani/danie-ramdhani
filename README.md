@@ -10,6 +10,11 @@ I'm building something with:
 
 <img style="display:block;margin-bottom:4px" height="50" src="https://img.shields.io/badge/Livewire-0C1116?logo=Livewire&style=for-the-badge&labelColor=161A23&logoColor=FB71A8" alt="Livewire">
 
-### The short story of my life:
-
-<img style="display:block;margin-bottom:4px" height="250" src="https://preview.redd.it/ysaejld56apa1.jpeg?width=539&format=pjpg&auto=webp&v=enabled&s=c882ae3776cd3ed127f102387967caa0fb7634a5" alt="The short story of my life">
+<details>
+  <summary>The short story of my life</summary>
+  
+   <div>
+     <img style="display:block;margin-bottom:4px" height="250" src="https://preview.redd.it/ysaejld56apa1.jpeg?width=539&format=pjpg&auto=webp&v=enabled&s=c882ae3776cd3ed127f102387967caa0fb7634a5" alt="The short story of my life">
+   </div>
+  
+</details>
