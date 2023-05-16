@@ -14,8 +14,20 @@ I'm building something with:
   <summary>The short story of my life</summary>
   
    <div>
-     <img style="display:block;margin-bottom:4px" height="250" src="https://preview.redd.it/ysaejld56apa1.jpeg?width=539&format=pjpg&auto=webp&v=enabled&s=c882ae3776cd3ed127f102387967caa0fb7634a5" alt="The short story of my life">
-     <img style="display:block;margin-bottom:4px" height="250" src="https://i.redd.it/otigkeji9ax51.jpg" alt="The short story of my life 2">
+     <img height="250" src="https://preview.redd.it/ysaejld56apa1.jpeg?width=539&format=pjpg&auto=webp&v=enabled&s=c882ae3776cd3ed127f102387967caa0fb7634a5" alt="The short story of my life">
+     <img height="250" src="https://i.redd.it/otigkeji9ax51.jpg" alt="The short story of my life 2">
+     <div>
+         <p>
+            You don't need teacher to learn programming, you just need a good documentation.
+         </p>
+         <p>
+            But sometimes you need teacher to give you advise about tips and trick about programming.
+         </p>
+         <p>
+            In short, the basic you learn in university kinda useless, because in industry world, they need a professional not a fresh man.
+         </p>
+         ~ Danie Ramdhani
+     </div>
    </div>
   
 </details>
